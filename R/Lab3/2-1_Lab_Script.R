@@ -10,7 +10,7 @@ library(igraph)
 
 # Set up YouTube authentication variables
 
-my_api_key <- "AIzaSyBgE9vk5dfvbKhwas04u6DaD_5mIRiUzdw"
+my_api_key <- ""
 
 
 # Authenticate to YouTube and collect data
@@ -93,8 +93,8 @@ library(ggridges)
 
 # Set up authentication variables
 
-app_id <- "7e9f2297a08e4b66ba790a39a1330998"
-app_secret <- "8acb49b84d0d4714865b2c0b8f85405e"
+app_id <- ""
+app_secret <- ""
 token <- "1"
 
 
